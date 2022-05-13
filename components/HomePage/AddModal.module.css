@@ -1,0 +1,11 @@
+.modalContainer{
+    background-color: #FFFFFF;
+    width: 60vw;
+    height: 50vh;
+}
+
+.modalContainer > form {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+}
